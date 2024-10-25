@@ -36,8 +36,9 @@ Tambien se puede poner asi:
 
 
 ## Imagenes e enlaces
-Para agregar imágenes con Markdown debes agregar un signo de exclamación ! sequido de unos corchetes y luego de una parentesis pones la url, o de donde esta el archivo
-Un ejemplo para poner una imagen desde una foto ya descargada es: ![Un foto](goku le bigote.jpg "ergoku")
+Para agregar imágenes con Markdown debes agregar un signo de exclamación ! sequido de unos corchetes y luego de una parentesis pones la url, o de donde esta el archivo.
+
+Un ejemplo para poner una imagen desde una foto ya descargada es: ![Un foto](.goku le bigote.jpg "ergoku")
 Un ejemplo para poner una imagen desde url es: ![Una foto](https://m.media-amazon.com/images/I/51I-yEOPwHL.jpg)
 Un ejemplo para un enlace es: [Youtube](https://www.youtube.com)
 
