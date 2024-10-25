@@ -37,7 +37,7 @@ Tambien se puede poner asi:
 
 ## Imagenes e enlaces
 Para agregar imágenes con Markdown debes agregar un signo de exclamación ! sequido de unos corchetes y luego de una parentesis pones la url, o de donde esta el archivo
-Un ejemplo para poner una imagen desde una foto ya descargada es: ![Un foto]()
+Un ejemplo para poner una imagen desde una foto ya descargada es: ![Un foto](goku le bigote.jpg)
 Un ejemplo para poner una imagen desde url es: ![Una foto](https://m.media-amazon.com/images/I/51I-yEOPwHL.jpg)
 Un ejemplo para un enlace es: [Youtube](https://www.youtube.com)
 
@@ -59,7 +59,7 @@ Un ejemplo de citas es > hola
 
 Puede crear tablas con canalizaciones | y guiones -. Los guiones se usan para crear cada encabezado de columna, mientras que las barras verticales separan cada columna.
 
-| Titulo 1   | Titulo 2   |
-| --------_  | ---------- |
-| El felipe  | EL felipe  |
-| EL España  | ER España  |
+| Cabecera 1 | Cabecera 2 |
+| ---------- | ---------- |
+| Elem 1, 1  | Elem 1, 2  |
+| Elem 1, 2  | Elem 2, 2  |
