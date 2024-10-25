@@ -21,7 +21,8 @@ o lo podemos poner asi:
 3. Estamos bien
 7. Como estamos
 
-Para poner listas viñetadas solo tenemos que poner un guion tal que asi:
+Para poner listas viñetadas solo tenemos que poner estos símbolos: - , + , *:
+
 - Hola
 - Como estamos
 - Estamos bien
